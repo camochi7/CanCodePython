@@ -1,1 +1,4 @@
-# CanCodePython
+Cameron Clark							CanCode Python Course
+01/03/2023
+	In my Python application I’m simply just comparing inputs of 700 randomized people gathering info about their age, weight, height and gender. I use 5 generic names as that part of the data is not as important. Now that I’m going through the project key points a little more thoroughly I’m realizing I should have used an outside source instead of generating my own data but as of right now I’m just setting up some simple data to be collected. 
+	I used sources like w3schools.com, sololearn.com and tips from a few reddit forums for help. After setting up a basic set of data and turning into a pandas df, as I wasn't sure how I was going to go about it, I set up calculations to determine means, medians, etc. along with ways to filter out unwanted input. I went through and decided on some graphs using different data received from calculations. Between using an oversimplified set of data and just not enough know how to style the graphs, the graphs themselves aren't very pretty. The data they provide isn't that valuable either but the graphs do show the stated correlations.
